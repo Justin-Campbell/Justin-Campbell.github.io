@@ -8,9 +8,7 @@ header:
 ---
 
 ## Probing the causal architecture of the human brain
-======
 Coming soon!
 
 ## Measuring complexity and the capacity for consciousness
-======
 Coming soon!
