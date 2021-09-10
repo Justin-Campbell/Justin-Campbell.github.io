@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Justin Campbell"
 title_separator          : "-"
 name                     : &name "Justin Campbell"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Justin Campbell"
   avatar           : "WhiteCoat2.png"
-  bio              : "MD/PhD Student"
+  bio              : "MD/PhD Student <br> <br> Human Systems Neurosciece Research in the <a style='color: black;' href='https://www.rolstonlab.com/#overview'> Rolston Lab </a> & <a style='color: black;' href='https://medicine.utah.edu/neurosurgery'>Department of Neurosurgery</a>
   location         : "Salt Lake City, UT"
   employer         :
   pubmed           :
