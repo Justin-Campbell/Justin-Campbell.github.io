@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Justin Campbell"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Justin Campbell"
 description              : &description "personal description"
