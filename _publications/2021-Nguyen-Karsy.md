@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-Nguyen-Karsy
 excerpt:
 date: 2021-08-17
-venue: "Child's Nervous System"
+venue: "Child\'s Nervous System"
 link: 'https://link.springer.com/article/10.1007/s00381-021-05331-4'
 code:
 github:
