@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Justin Campbell"
+  name             : "Justin M. Campbell"
   avatar           : "WhiteCoat2.png"
-  bio              : "MD/PhD Student <br> <br> Human Systems Neurosciece Research in the <a style='color: black;' href='https://www.rolstonlab.com/#overview'> Rolston Lab </a>"
+  bio              : "MD/PhD Student at the University of Utah School of Medicine<br> <br> Human Systems Neurosciece Research in the <a style='color: black;' href='https://www.rolstonlab.com/#overview'> Rolston Lab </a>"
   location         : "Salt Lake City, UT"
   employer         :
   pubmed           :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8685-2081"
+  orcid            : "https://orcid.org/0000-0002-8685-2081"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
