@@ -213,7 +213,7 @@ body:hover .visually-hidden button {
   .fa-github-square {
     color: $github-color;
   }
-  
+
   .fa-gitlab {
     color: $gitlab-color;
   }
@@ -286,10 +286,15 @@ body:hover .visually-hidden button {
   .fa-xing-square {
     color: $xing-color;
   }
-  
+
   .ai-orcid,
   .ai-orcid-square {
     color: $orcid-color;
+  }
+
+  .fa-researchgate,
+  .fa-researchgate-square {
+    color: $researchgate-color;
   }
 }
 
