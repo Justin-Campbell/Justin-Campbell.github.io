@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  og_image: "research/ecdf.png"
+  og_image:
 ---
 
 My research falls into two main areas: understanding the influence of geography
@@ -28,8 +28,6 @@ economic interdependence and illicit economic exchange.
 In a new avenue of research, I leverage social media data to explore
 participation in extremist movements across multiple contexts, gaining insight
 into the early stages of radicalization.
-
-<nbsp>
 
 {% include base_path %}
 
