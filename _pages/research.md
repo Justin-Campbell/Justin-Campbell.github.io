@@ -7,10 +7,10 @@ header:
   og_image:
 ---
 
-Probing the causal architecture of the human brain
+## Probing the causal architecture of the human brain
 ======
 Coming soon!
 
-Measuring complexity and the capacity for consciousness
+## Measuring complexity and the capacity for consciousness
 ======
 Coming soon!
