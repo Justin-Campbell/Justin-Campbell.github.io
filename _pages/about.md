@@ -20,3 +20,5 @@ Welcome! I'm an MD/PhD student at the University of Utah School of Medicine. Lat
 
 #### B.S. in Philosophy & B.S. in Psychology, 2013-2018
 ###### *Utah State University*
+
+> *The brain has not explained the mind fully. - Wilder Penfield*
