@@ -9,5 +9,5 @@ link: 'https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00990/full'
 code:
 github:
 paperurl: 'http://Justin-Campbell.github.io/files/Publications/2020-Mahamane-Jordan.pdf'
-citation: 'Mahamane, S., Wan, N., Porter, A., Hancock, A. S., Campbell, J., Lyon, T. E., Jordan, K. E. Natural Categorization: Electrophysiological Responses to Viewing Natural Versus Built Environments. Front Psychol 11, 990 (2020).'
+citation: 'Mahamane, S., Wan, N., Porter, A., Hancock, A. S., <b>Campbell, J.</b>, Lyon, T. E., Jordan, K. E. Natural Categorization: Electrophysiological Responses to Viewing Natural Versus Built Environments. Front Psychol 11, 990 (2020).'
 ---
