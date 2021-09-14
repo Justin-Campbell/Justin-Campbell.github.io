@@ -9,5 +9,5 @@ link: 'https://link.springer.com/article/10.1007/s00381-021-05331-4'
 code:
 github:
 paperurl: 'http://Justin-Campbell.github.io/files/Publications/2021-Nguyen-Karsy.pdf'
-citation: 'Nguyen, S., Cox, P., Campbell, J. M., Brockmeyer, D. L. & Karsy, M. Evaluating the utility and quality of large administrative databases in pediatric spinal neurosurgery research. Child’s Nerv Syst 1–9 (2021) doi:10.1007/s00381-021-05331-4.'
+citation: 'Nguyen, S., Cox, P., <b>Campbell, J. M.</b>, Brockmeyer, D. L. & Karsy, M. Evaluating the utility and quality of large administrative databases in pediatric spinal neurosurgery research. Child’s Nerv Syst 1–9 (2021) doi:10.1007/s00381-021-05331-4.'
 ---
