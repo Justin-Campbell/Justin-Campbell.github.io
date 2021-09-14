@@ -18,5 +18,5 @@ Welcome! I'm an MD/PhD student at the University of Utah School of Medicine. Lat
 <i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Doctor of Medicine (M.D.)**, 2019-Present \
       *University of Utah School of Medicine*
 
-<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Philosophy (B.S.) & Psychology (B.S.)**, 2013-2018 \
+<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Philosophy (B.S.) & Psychology (B.S.)**, 2013-18 \
       *Utah State University*
