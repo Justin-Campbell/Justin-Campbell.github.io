@@ -12,11 +12,11 @@ Welcome! I'm an MD/PhD student at the University of Utah School of Medicine. Lat
 
 ## Education
 
-<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Neuroscience (Ph.D.)**, 2021-Present \
+<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Neuroscience (PhD)**, 2021-Present \
       *University of Utah School of Medicine*
 
-<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Doctor of Medicine (M.D.)**, 2019-Present \
+<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Doctor of Medicine (MD)**, 2019-Present \
       *University of Utah School of Medicine*
 
-<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Philosophy (B.S.) & Psychology (B.S.)**, 2013-18 \
+<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Philosophy (BS) & Psychology (BS)**, 2013-2018 \
       *Utah State University*
