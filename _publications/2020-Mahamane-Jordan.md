@@ -9,5 +9,5 @@ link: 'https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00990/full'
 code:
 github:
 paperurl: 'http://Justin-Campbell.github.io/files/Publications/2020-Mahamane-Jordan.pdf'
-citation: 'Mahamane S, Wan N, Porter A, Hancock AS, <b>Campbell J</b>, Lyon TE, Jordan KE. <i>Front Psychol.</i> 2020;11:990. doi:10.3389/fpsyg.2020.00990'
+citation: 'Mahamane S, Wan N, Porter A, Hancock AS, <b>Campbell J</b>, Lyon TE, Jordan KE. <i>Front Psychol.</i> 2020;11:990.'
 ---

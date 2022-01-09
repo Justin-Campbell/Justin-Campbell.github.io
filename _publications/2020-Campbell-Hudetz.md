@@ -9,5 +9,5 @@ link: 'https://www.sciencedirect.com/science/article/pii/S1053811919309073?via%3
 code:
 github:
 paperurl: 'http://Justin-Campbell.github.io/files/Publications/2020-Campbell-Hudetz.pdf'
-citation: '<b>Campbell JM*</b>, Huang Z*, Zhang J, Wu X, Qin P, Northoff G, Mashour GA, Hudetz AG. <i>Neuroimage.</i> 2020;206:116316. doi:10.1016/j.neuroimage.2019.116316'
+citation: '<b>Campbell JM*</b>, Huang Z*, Zhang J, Wu X, Qin P, Northoff G, Mashour GA, Hudetz AG. <i>Neuroimage.</i> 2020;206:116316.'
 ---

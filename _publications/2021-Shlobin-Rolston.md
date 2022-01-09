@@ -9,5 +9,5 @@ link: 'https://www.sciencedirect.com/science/article/pii/S152550502100785X'
 code:
 github:
 paperurl: 'http://Justin-Campbell.github.io/files/Publications/2021-Shlobin-Rolston.pdf'
-citation: 'Shlobin NA*, <b>Campbell JM*</b>, Rosenow JM, Rolston JD.  <i>Epilepsy & Behavior.</i> 2021:1-9. doi:10.1016/j.yebeh.2021.108524'
+citation: 'Shlobin NA*, <b>Campbell JM*</b>, Rosenow JM, Rolston JD.  <i>Epilepsy & Behavior.</i> 2021:1-9.'
 ---
