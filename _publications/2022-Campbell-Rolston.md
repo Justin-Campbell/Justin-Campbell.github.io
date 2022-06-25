@@ -8,6 +8,6 @@ venue: 'Clinical Parkinsonism & Related Disorders'
 link: 'https://www.sciencedirect.com/science/article/pii/S2590112522000056?via%3Dihub'
 code:
 github:
-paperurl: 'http://Justin-Campbell.github.io/files/Publications/2022-Campbell-Rolston.pdf'
-citation: <b>Campbell JM*</b>, Ballard J, Duff K, Zorn M, Moretti P, Alexander MD, Rolston JD. <i>Clin Park Relat Disord.</i> 2022.'
+paperurl:
+citation: '<b>Campbell JM</b>, Ballard J, Duff K, Zorn M, Moretti P, Alexander MD, Rolston JD. <i>Clin Park Relat Disord.</i> 2022.'
 ---
