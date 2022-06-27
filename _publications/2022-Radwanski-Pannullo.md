@@ -1,5 +1,5 @@
 ---
-title: Reevaluating Innovations in Medical Student Neurosurgery Education: Lessons Learned Today from Data Collected Before COVID-19
+title: 'Reevaluating Innovations in Medical Student Neurosurgery Education: Lessons Learned Today from Data Collected Before COVID-19'
 collection: publications
 permalink:
 excerpt:
