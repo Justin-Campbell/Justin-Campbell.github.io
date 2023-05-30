@@ -20,8 +20,8 @@ Our approach leverages **intracranial electrophysiology, cognitive neuroscience,
 <i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Neuroscience (PhD)**, 2021-Present \
       *University of Utah*
 
-<!-- <i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Biomedical Engineering (MS)**, 2023-Present \
-      *University of Utah* -->
+<i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Biomedical Engineering (MS)**, 2023-Present \
+      *University of Utah*
 
 <i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Philosophy (BS) & Psychology (BS)**, 2013-2018 \
       *Utah State University*
