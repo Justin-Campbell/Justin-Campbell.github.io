@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MD/PhD candidate at the University of Utah School of Medicine working with [Cory Inman](https://scholar.google.com/citations?hl=en&user=y07SI5oAAAAJ). 
-
-Our research leverages **intracranial electrophysiology, cognitive neuroscience, neural engineering,** and **computational modeling** to study the dynamics of memory at the level of single neurons and distributed networks. These tools help us to better understand how information is processed in the brain, how neuromodulation changes the way the brain is wired, and how we can leverage these insights to better treat patients with memory impairments.
-
+I'm an MD/PhD candidate at the University of Utah School of Medicine. My research leverages **intracranial electrophysiology**, **cognitive neuroscience**,and **neural engineering** to study how theta burst stimulation of the basolateral amygdala modulates activity in the medial temporal lobe at the level of individual neurons and distributed brain networks. I am particularly interested in leveraging advances in neurotechnology to design circuit-based, closed-loop therapies for individuals with treatment-resistant neuropsychiatric disease.
 ## Education
 
 <i class="fas fa-graduation-cap" aria-hidden="true"></i>  **Medicine (MD)**, 2019-Present \
