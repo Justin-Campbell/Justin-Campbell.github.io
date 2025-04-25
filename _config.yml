@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Justin M. Campbell"
+  name             : "Justin Campbell, PhD"
   avatar           : "JCampbell.png"
-  bio              : "MD/PhD Candidate <br> <br> <b>Cognitive computational neuroscience</b> and <b>neural engineering</b> at the University of Utah School of Medicine"
+  bio              : "MD/PhD Candidate at the University of Utah School of Medicine"
   location         : "Salt Lake City, UT"
   employer         :
   pubmed           :
